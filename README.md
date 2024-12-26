@@ -3,10 +3,9 @@
 A sleek and interactive music app built with HTML, CSS, and JavaScript. Listen to your favorite tunes, adjust the volume, and navigate through a collection of songs with ease.
 
 ## 🎶 Features
-- **5 Songs**: Enjoy a curated collection of five songs.
-- **Song Details**: Each song displays its name, singer, and album art.
-- **Volume Control**: Adjust the volume to your liking—make it loud or softer.
 - **Navigation**: Easily switch between songs with intuitive controls.
+- **Volume Control**: Adjust the volume.
+- **Song Data**: Each song displays its name, singer.
 
 ## 🚀 Live Demo
 [Listen to the Music App](https://nourhan123essam.github.io/MusicWebApp/)
